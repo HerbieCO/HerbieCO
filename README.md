@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HerbieCO
-- 👀 I’m interested in all things data, solving problems, and streamlining processes
-- 🌱 I’m currently working on the Google Data Analytics certification program through Coursera
-- 💞️ I’m looking to collaborate on finding a career path in my new field of Data Analytics
+- 👀 I’m interested in coding, solving problems, and streamlining processes
+- 🌱 I’m currently working on the Frontend Developer Career Path through Scrimba
+- 💞️ I’m looking to collaborate on finding a career path in my new field of web development
 - 📫 How to reach me...
 
 <!---
