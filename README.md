@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @HerbieCO
-- 👀 I’m interested in coding, solving problems, and streamlining processes
-- 🌱 I’m currently working on the Frontend Developer Career Path through Scrimba
-- 💞️ I’m looking to collaborate on finding a career path in my new field of web development
-- 📫 How to reach me...
+R. Herbers
 
-<!---
-HerbieCO/HerbieCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring **Software Development** professional with a history in **Consumer and B2B Tech Support, Ops Quality, and Business Process Improvement**.
+
+I am focused on harnessing **Generative AI** and **automation** to build creative, streamlined solutions to everyday problems.
+
+### My Focus
+* 🤖 **AI Integration:** Exploring how to leverage models like Gemini Pro to build smarter applications.
+* 🛠️ **Problem Solving:** Creating tools that simplify complex or repetitive processes.
+* 🎓 **Continuous Learning:** Building a foundation in modern tech stacks to bridge the gap into a new career path.
+
+---
+[Google Developer Profile](https://g.dev/rherbers)
